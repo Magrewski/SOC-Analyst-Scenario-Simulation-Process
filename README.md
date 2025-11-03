@@ -54,7 +54,7 @@ Initial analysis revealed:
 - Documented all observations, timestamps, and actions in the SOC ticketing system.  
 - Contained the threat by submitting the IOC (`haz4rdw4re.io`) to the DNS/firewall blocklist.  
 - Notified and escalated the case to the **Tier 2 Incident Response** team per internal procedures.  
-- Recommended enhanced user training on safe downloading practices.  
+- Recommended enhanced user training on internet safety and usage practices.  
 
 ---
 
